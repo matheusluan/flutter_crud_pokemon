@@ -50,7 +50,7 @@ class _PagePokemonState extends State<PagePokemon> {
         backgroundColor: Colors.white,
         title: const Center(
           child: Text(
-            'Lista de pokemons',
+            'Cadastro de pokemons',
             style: TextStyle(color: Colors.blueGrey),
           ),
         ),
